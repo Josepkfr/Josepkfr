@@ -10,7 +10,7 @@ Habilidades: NodeJS/ REACT / JS / HTML / CSS
 - 📫 Cómo contactarme: +593984736029 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Josepkfr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/josé-alpala-0280b4182//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Josepkfr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josé-alpala-0280b4182//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josepkfr)](https://github.com/anuraghazra/github-readme-stats)
 
