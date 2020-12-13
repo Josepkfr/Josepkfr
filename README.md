@@ -1,6 +1,6 @@
 ### Hola 👋, My name is José
 #### I am web Developer
-![I am web Developer](https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+![I am web Developer]
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
